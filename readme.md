@@ -1,3 +1,5 @@
+[![Python application](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS/actions/workflows/CI-CD.yaml/badge.svg)](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS/actions/workflows/CI-CD.yaml)
+
 # FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS
 
 FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
