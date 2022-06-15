@@ -43,7 +43,7 @@ git add . && git commit -m "update Readme.md"
 pushing changes to new repo
 
 ```bash
-git remote add origin git@github.com:kb1907/Fast-Api-Demo.git
+git remote add origin git@github.com:kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS.git
 git branch -M main
 git push -u origin main
 ```
