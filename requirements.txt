@@ -1,0 +1,6 @@
+catboost
+fastapi
+uvicorn
+pytest
+flake8
+gunicorn
