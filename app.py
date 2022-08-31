@@ -20,6 +20,6 @@ async def predict(Age:int, RestingBP:int, Cholesterol:int,Oldpeak:float,FastingB
 
 
 
-if __name__ == '__main__':
-    uvicorn.run(app, port=8080, host='0.0.0.0')
+#if __name__ == '__main__':
+    #uvicorn.run(app, port=8080, host='0.0.0.0')
 
