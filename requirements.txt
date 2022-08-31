@@ -1,6 +1,6 @@
 catboost
 fastapi
-uvicorn==0.9.0
+uvicorn
 pytest
 flake8
 gunicorn
